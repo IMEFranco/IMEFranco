@@ -6,7 +6,7 @@
 
 </div>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=fefranco97&&style=flat-square)
+![Profile views counter](https://komarev.com/ghpvc/?username=IMEFranco&&style=flat-square)
 
 <a href="https://github.com/fefranco97" target="_blank">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
